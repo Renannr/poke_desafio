@@ -1,4 +1,4 @@
-# Desafio Teste Técnico Pleno – CRUD API REST de Pokémons com Integração à API POKEDEX
+# Desafio CRUD API REST de Pokémons com Integração à API POKEDEX
 
 Este repositório contém a implementação de um desafio Full Stack, com separação entre **Backend** e **Frontend** (opcional).
 
