@@ -93,7 +93,7 @@ A seguir estão as rotas disponíveis no backend para gerenciar os Pokémons:
 
 Você pode conferir o funcionamento da aplicação neste vídeo:
 
-![Demonstração da aplicação](./midia/demo.gif)
+![Demonstração da aplicação](./midia/video.gif)
 
 
 ## Considerações Finais
